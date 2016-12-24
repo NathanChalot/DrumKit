@@ -1,5 +1,5 @@
 # DrumKit
-First project of JS 30 days challenge from WesBos
+First project of [Javascript 30 days challenge](https://javascript30.com/) from [Wes Bos](https://github.com/wesbos)
 
 ##TODOS
 - add mouse click support
