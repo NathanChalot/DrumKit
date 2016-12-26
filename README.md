@@ -9,3 +9,9 @@ First project of [Javascript 30 days challenge](https://javascript30.com/) from 
 - add touch support and responsiveness
 - customize background-image
 - add svg animation ?
+
+##notions
+- audio element api
+- classList
+- querySelector
+- arrow function
